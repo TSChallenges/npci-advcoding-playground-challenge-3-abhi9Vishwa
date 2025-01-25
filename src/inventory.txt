@@ -1,1 +1,5 @@
+apple,90
+banana,88
+orange,77
+pine,33
 
